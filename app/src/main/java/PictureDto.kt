@@ -1,1 +1,0 @@
-class PictureDto : ArrayList<PictureDtoItem>()
